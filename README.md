@@ -2,7 +2,7 @@
 
 This is a simple Notes App project built using HTML, CSS, and JavaScript (with some parts written in SASS for improved styling). The application allows users to add, delete, search, and highlight notes.
 
-## [Live Site](https://note-app-mansy.netlify.app)
+## [Live Site](https://note-app-assel.netlify.app/)
 
 ## [Figma Dsign](https://www.figma.com/file/FSzGesa0hMQsYPd1B41s8F/Note-app-almdrasa-js-diploma-project?type=design&node-id=0-1&mode=design&t=q4qXoR5CmH9Wfk9T-0)
 
