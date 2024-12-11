@@ -65,7 +65,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd notes-app
+   cd note-app
    ```
 
 3. Open the `index.html` file in your preferred web browser.
